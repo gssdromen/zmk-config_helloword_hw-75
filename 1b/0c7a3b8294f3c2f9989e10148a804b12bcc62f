@@ -1,0 +1,29 @@
+.gitignore
+  s_0d02ab024f8708::t_5cf88180bbf475 1
+.github/workflows/build.yml
+  s_0d02ab024f8708::t_0febd3bac6850e 27,95
+  s_0d02ab024f8708::t_9c438967afbc0d 35
+  s_0d02ab024f8708::t_4a110afd160eff 39
+  s_0d02ab024f8708::t_a1891f4ccacc30 59
+  s_0d02ab024f8708::t_3c29e7ff26cd18 60
+  s_0d02ab024f8708::t_ab865d3eec606d 82
+  s_0d02ab024f8708::t_2282146a67de55 84
+  s_0d02ab024f8708::t_0c727d0fae63b2 98
+  s_0d02ab024f8708::t_de05c1c2e4881d 100,102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "1b0c7a3b8294f3c2f9989e10148a804b12bcc62f",
+  "prompts": {},
+  "sessions": {
+    "s_0d02ab024f8708": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "671a91b0-1094-4fb6-8df1-fdebfc0cc290",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "YinJun Wu <yinjunwu@trip.com>"
+    }
+  }
+}
