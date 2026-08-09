@@ -1,0 +1,19 @@
+.github/workflows/build.yml
+  s_0d02ab024f8708::t_3c29e7ff26cd18 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "4650fa44ef7a3defea8942faa1b8f1801f82d596",
+  "prompts": {},
+  "sessions": {
+    "s_0d02ab024f8708": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "671a91b0-1094-4fb6-8df1-fdebfc0cc290",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "YinJun Wu <yinjunwu@trip.com>"
+    }
+  }
+}
